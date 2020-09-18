@@ -46,18 +46,6 @@ function handleClick(e) {
   }
 }
 
-// ===DISPLAY MOVIE POSTER===
-
-function displayMovie(e) {
-  if (e) {
-    let url = `http://omdbapi.com/?t=${search.value}&apikey=92c58682`;
-    console.log(search.value);
-    jQuery.getJSON(url, (data) => {
-      body.style.backgroundImage = `url(${data.Poster})`;
-    });
-  }
-}
-
 // ===RESET ===
 function reset() {
   let canvasArray = Array.from(canvas.children);
