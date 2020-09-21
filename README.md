@@ -1,4 +1,4 @@
-![Banner](/public/banner-drawing.gif)
+![Banner](/public/banner-3D-drawing.gif)
 
 ## The Project
 
