@@ -10,4 +10,4 @@ This app is the result of an experiment I did about the dynamic generation of co
 - CSS
 - HTML
 
-[<img alt="project-view" src="https://us.123rf.com/450wm/giamportone/giamportone1804/giamportone180400109/99753262-stock-vector-click-here-button-with-arrow-pointer-icon.jpg?ver=6" width="40%">.](http://sulky-veil.surge.sh/)
+[<img alt="project-view" src="https://us.123rf.com/450wm/giamportone/giamportone1804/giamportone180400109/99753262-stock-vector-click-here-button-with-arrow-pointer-icon.jpg?ver=6" width="30%">.](http://sulky-veil.surge.sh/)
